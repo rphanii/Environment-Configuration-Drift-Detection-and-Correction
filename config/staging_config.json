@@ -1,0 +1,5 @@
+{
+  "database": "staging.db.server",
+  "debug": false,
+  "logging_level": "INFO"
+}

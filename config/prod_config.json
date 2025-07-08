@@ -1,0 +1,5 @@
+{
+  "database": "prod.db.server",
+  "debug": false,
+  "logging_level": "ERROR"
+}

@@ -1,0 +1,5 @@
+{
+  "database": "localhost",
+  "debug": true,
+  "logging_level": "DEBUG"
+}
